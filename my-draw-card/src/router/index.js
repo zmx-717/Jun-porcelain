@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HelloWorld from '../components/HelloWorld.vue';
 import First from '../views/First.vue';
-import SubPage1 from '../views/SubPage1.vue'; // 子路由页面 1
+
 
 
 const routes = [

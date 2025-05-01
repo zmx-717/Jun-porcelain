@@ -115,55 +115,57 @@
 
         <!-- 横向滚动内容 -->
         <div class="horizontal-scroll-container">
-          <div class="horizontal-scroll-content">
-            <div class="horizontal-item">
-              <h3>钧瓷之都 神垕古镇</h3>
-              <p>
-                如今，钧瓷的制作工艺已被列为国家级非物质文化遗产，受到了政府和社会各界的广泛关注。在禹州，钧瓷产业蓬勃发展，大大小小的钧瓷企业和工作室如雨后春笋般涌现。
-              </p>
-              <p>
-                漫步在神垕古镇，空气中弥漫着泥土与火焰交织的气息，街边店铺里陈列着琳琅满目的钧瓷作品，从传统的瓶、尊、鼎，到充满现代创意的雕塑、摆件，每一件都散发着独特的艺术魅力。
-              </p>
-              <img
-                src="/first1/shenhou.jpg"
-                alt="钧瓷之都"
-                class="timeline-image"
-              />
-            </div>
-            <div class="horizontal-item">
-              <h3>现代钧瓷 科技赋能</h3>
-              <p>
-                当代艺术家们也在尝试创新，将现代审美理念和科技手段融入钧瓷创作中。
-                比如，利用3D打印技术制作钧瓷模具，不仅提高了生产效率，还能实现更加复杂的造型设计；
-              </p>
-              <p>
-                同时，钧瓷的釉色也在不断创新，艺术家们通过对釉料成分和烧制工艺的研究，创造出更加丰富多彩的釉色效果。
-              </p>
-              <img
-                src="/first1/000.jpg"
-                alt="钧瓷之都"
-                class="timeline-image"
-              />
-            </div>
-            <div class="horizontal-item">
-              <h3>钧瓷未来 无限可能</h3>
-              <p>
-                在超级内卷的时代背景下，钧瓷以其独特的魅力与深厚的文化底蕴，展现出了广阔的发展前景。通过创新驱动、文化自信、可持续发展等多方面的努力，钧瓷产业正逐步走向更加辉煌的明天。我们有理由相信，在未来的日子里，钧瓷将继续以其独有的方式讲述中国故事，传递中华文化，成为连接过去与未来、中国与世界的桥梁。钧瓷的未来，充满了无限可能，值得我们共同期待与见证。
-              </p>
-              <img
-                src="/first1/111.jpg"
-                alt="钧瓷之都"
-                class="timeline-image"
-              />
-            </div>
+  <div class="horizontal-scroll-content">
+    <div class="horizontal-item">
+      <div class="horizontal-text">
+        <h3>钧瓷之都 神垕古镇</h3>
+        <p>
+          如今，钧瓷的制作工艺已被列为国家级非物质文化遗产，受到了政府和社会各界的广泛关注。在禹州，钧瓷产业蓬勃发展，大大小小的钧瓷企业和工作室如雨后春笋般涌现。
+        </p>
+        <p>
+          漫步在神垕古镇，空气中弥漫着泥土与火焰交织的气息，街边店铺里陈列着琳琅满目的钧瓷作品，从传统的瓶、尊、鼎，到充满现代创意的雕塑、摆件，每一件都散发着独特的艺术魅力。
+        </p>
+      </div>
+      <div class="horizontal-image">
+        <img src="/first1/shenhou.jpg" alt="钧瓷之都" class="timeline-image" />
+      </div>
+    </div>
 
-            <div class="horizontal-item"></div>
-          </div>
-        </div>
+    <div class="horizontal-item">
+      <div class="horizontal-text">
+        <h3>现代钧瓷 科技赋能</h3>
+        <p>
+          当代艺术家们也在尝试创新，将现代审美理念和科技手段融入钧瓷创作中。
+          比如，利用3D打印技术制作钧瓷模具，不仅提高了生产效率，还能实现更加复杂的造型设计；
+        </p>
+        <p>
+          同时，钧瓷的釉色也在不断创新，艺术家们通过对釉料成分和烧制工艺的研究，创造出更加丰富多彩的釉色效果。
+        </p>
+      </div>
+      <div class="horizontal-image">
+        <img src="/first1/000.jpg" alt="钧瓷之都" class="timeline-image" />
+      </div>
+    </div>
 
+    <div class="horizontal-item">
+      <div class="horizontal-text">
+        <h3>钧瓷未来 无限可能</h3>
+        <p>
+          在超级内卷的时代背景下，钧瓷以其独特的魅力与深厚的文化底蕴，展现出了广阔的发展前景。通过创新驱动、文化自信、可持续发展等多方面的努力，钧瓷产业正逐步走向更加辉煌的明天。
+          我们有理由相信，在未来的日子里，钧瓷将继续以其独有的方式讲述中国故事，传递中华文化，成为连接过去与未来、中国与世界的桥梁。钧瓷的未来，充满了无限可能，值得我们共同期待与见证。
+        </p>
+      </div>
+      <div class="horizontal-image">
+        <img src="/first1/111.jpg" alt="钧瓷之都" class="timeline-image" />
+      </div>
+    </div>
+
+    <div class="horizontal-item"></div>
+  </div>
+</div>
         <!-- 横向滚动内容结束 -->
         <div class="text">
-  <p>
+          <p>
     现代钧瓷：传统工艺的科技化突围与文化重构<br />
     工艺革新：从经验传承到科学解构<br />
     釉料配方：采用X射线荧光光谱分析（XRF）精准控制铜红釉中Fe₂O₃与CaO比例，使“雨过天青”“窑变红斑”复现率提升至85%。<br />
@@ -175,7 +177,13 @@
     功能性创新：纳米注浆技术使茶具厚度降至3mm，兼具艺术性与实用性，《冰裂纹茶海》获2023年红点设计奖。
   </p>
 </div>
-         
+
+<div class="imgs">
+  <img src="/first1/2.jpg" alt="钧瓷之都" class="img-item img-item-1" />
+  <img src="/first1/3.jpg" alt="钧瓷之都" class="img-item img-item-2" />
+  <img src="/first1/4.jpg" alt="钧瓷之都" class="img-item img-item-3" />
+</div>
+        
       </div>
     </div>
     <!-- 遮罩 -->
@@ -259,7 +267,7 @@ onMounted(() => {
   // 确保内容宽度足够触发滚动
   if (content.scrollWidth > container.offsetWidth) {
     const lastItemWidth = items[items.length - 1].offsetWidth; // 获取最后一个子元素的宽度
-    const totalScrollDistance = content.scrollWidth - container.offsetWidth; // 总滚动距离
+    const totalScrollDistance = content.scrollWidth - container.offsetWidth+100; // 总滚动距离
     const stopAtSecondLast = totalScrollDistance - 520; // 滚动到倒数第二个子元素的位置
 
     gsap.to(content, {
@@ -288,6 +296,27 @@ onMounted(() => {
         toggleActions: "play none none reverse",
       },
     });
+  });
+
+
+
+  gsap.utils.toArray(".img-item").forEach((img, index) => {
+    gsap.fromTo(
+      img,
+      { y: 50, opacity: 0 }, // 初始状态：向下偏移 50px，透明度为 0
+      {
+        y: 0, // 最终状态：回到原位置
+        opacity: 1, // 透明度为 1
+        duration: 1.5, // 动画持续时间
+        ease: "power3.out", // 缓动效果
+        scrollTrigger: {
+          trigger: img, // 触发动画的元素
+          start: "top 80%", // 当图片进入视口 80% 时触发动画
+          end: "top 50%", // 当图片离开视口 50% 时结束动画
+          toggleActions: "play none none reverse", // 滚动时播放动画，反向滚动时反向播放
+        },
+      }
+    );
   });
 });
 </script>
@@ -336,7 +365,7 @@ onMounted(() => {
   left: 23%; /* 居中 */
   transform: translateX(-50%);
   top: 0; /* 从页面顶部开始 */
-  height: 100%; /* 占满整个视口高度 */
+  height: 100%; 
   width: 2px;
   background: repeating-linear-gradient(
     to bottom,
@@ -474,7 +503,7 @@ onMounted(() => {
   top: 0;
   left: 0;
   width: 100%;
-  height: 460%;
+  height: 465%;
   background: radial-gradient(
     circle,
     rgba(0, 0, 0, 0.6),
@@ -491,28 +520,24 @@ onMounted(() => {
 }
 
 .horizontal-scroll-content {
-  display: flex;
-  width: max-content;
-  height: 100%;
+  display: flex; /* 子元素水平排列 */
+  gap: 20px; /* 子元素之间的间距 */
+  width: max-content; /* 根据内容自动扩展宽度 */
+  height: 100%; /* 高度与容器一致 */
 }
 
 .horizontal-item {
-  flex: none; /* 子元素不缩放 */
-  margin-top: 80px;
-  width: 80vw; /* 每个子元素占据 80% 的视口宽度 */
-  height: auto; /* 高度根据内容自动调整 */
-  background: rgba(255, 255, 255, 0.1); /* 半透明背景 */
-  border-radius: 10px; /* 圆角 */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 添加阴影 */
-  padding: 20px; /* 内边距 */
   display: flex; /* 使用 flex 布局 */
-  flex-direction: column; /* 子元素垂直排列 */
+  flex-direction: row; /* 子元素水平排列 */
+  align-items: center; /* 垂直居中 */
   justify-content: space-between; /* 子元素均匀分布 */
-  align-items: center; /* 子元素居中对齐 */
-  text-align: center; /* 文本居中 */
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease; /* 添加过渡效果 */
+  flex: none; /* 子元素不缩放 */
+  width: 80vw; /* 每个子元素占据 90% 的视口宽度 */
+  height: auto; /* 高度根据内容自动调整 */
+  background: transparent;/* 半透明背景 */
+  border-radius: 10px; /* 圆角 */
+  padding: 20px; /* 内边距 */
+  text-align: center; /* 文本左对齐 */
 }
 
 .horizontal-item:last-child {
@@ -520,34 +545,73 @@ onMounted(() => {
   width: 50vw; /* 设置更大的宽度 */
 }
 
-.horizontal-item:hover {
-  transform: scale(1.05); /* 鼠标悬停时放大 */
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); /* 鼠标悬停时增加阴影 */
+.horizontal-text {
+  flex: 1; /* 文字部分占据剩余空间 */
+  padding-right: 20px; /* 文字与图片之间的间距 */
 }
 
-.horizontal-item h3 {
-  font-size: 1.5rem; /* 标题字体大小 */
-  color: #333; /* 标题颜色 */
-  margin-bottom: 10px; /* 标题与内容的间距 */
+.horizontal-image {
+  flex: none; /* 图片部分固定宽度 */
+  width: 300px; /* 图片宽度 */
 }
 
-.horizontal-item p {
-  font-size: 1rem; /* 正文字体大小 */
-  color: #555; /* 正文颜色 */
-  line-height: 1.6; /* 行高 */
-  margin-bottom: 15px; /* 段落之间的间距 */
-}
-
-.horizontal-item img {
+.timeline-image {
   width: 100%; /* 图片宽度占满容器 */
-  max-width: 300px; /* 图片最大宽度 */
   height: auto; /* 高度自动调整 */
   border-radius: 8px; /* 图片圆角 */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 图片阴影 */
   transition: transform 0.3s ease; /* 添加过渡效果 */
 }
 
-.horizontal-item img:hover {
+
+
+.text{
+  margin-top: 200px;
+  width: 100%;
+  height: 50vh;
+  text-align: center;
+}
+
+.imgs {
+  height: 100vh;
+  width: 80vw;
+  display: flex;
+  justify-content: center; /* 子元素水平居中 */
+  align-items: center; /* 子元素垂直居中 */
+  margin-top: 100px;
+}
+
+.img-item {
+  margin-right: 20px; /* 图片之间的间距 */
+  border-radius: 10px; /* 图片圆角 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 图片阴影 */
+  object-fit: cover; /* 确保图片填充容器并保持比例 */
+  transition: transform 0.3s ease; /* 添加过渡效果 */
+}
+
+.img-item:hover {
   transform: scale(1.1); /* 鼠标悬停时放大图片 */
+}
+
+/* 为第一个图片设置样式 */
+.img-item-1 {
+  margin-right: 20px; /* 图片之间的间距 */
+  width: 20vw; /* 宽度为父组件的 40% */
+  border: 2px solid #d4da93; /* 红色边框 */
+  transform: rotate(5deg); /* 旋转 5 度 */
+}
+
+/* 为第二个图片设置样式 */
+.img-item-2 {
+  width: 25vw; /* 宽度为父组件的 30% */
+  border: 2px solid #00ff00; /* 绿色边框 */
+  transform: rotate(-5deg); /* 旋转 -5 度 */
+}
+
+/* 为第三个图片设置样式 */
+.img-item-3 {
+  width: 20vw; /* 宽度为父组件的 35% */
+  border: 2px solid #0000ff; /* 蓝色边框 */
+  transform: scale(1.05); /* 放大 1.05 倍 */
 }
 </style>

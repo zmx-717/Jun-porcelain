@@ -3,6 +3,7 @@
     <Header />
     <v-main>
       <router-view />
+      <DeepSeekBall></DeepSeekBall>
     </v-main>
   
   </v-app>
@@ -11,4 +12,5 @@
 
 <script setup>
 import Header from './layouts/Header.vue';
+import DeepSeekBall from './components/DeepSeekBall.vue';
 </script>
