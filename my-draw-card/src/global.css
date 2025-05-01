@@ -1,0 +1,76 @@
+/* 全局样式 */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  background-color: #f8f8f8;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-logo img {
+  height: 40px; /* 调整 logo 的高度 */
+  margin-left: 100px;
+}
+
+.right-menu {
+  display: flex;
+  gap: 20px; /* 调整菜单项之间的间距 */
+}
+
+.right-menu a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .left-logo img {
+    margin-left: 0;
+  }
+
+  .right-menu {
+    flex-direction: column;
+    gap: 10px; /* 调整菜单项之间的间距 */
+    width: 100%;
+    align-items: flex-start;
+  }
+
+  .right-menu a {
+    padding: 10px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    padding: 10px;
+  }
+
+  .left-logo img {
+    height: 30px; /* 调整 logo 的高度 */
+  }
+
+  .right-menu {
+    gap: 5px; /* 调整菜单项之间的间距 */
+  }
+
+  .right-menu a {
+    font-size: 14px; /* 调整字体大小 */
+  }
+}
