@@ -21,9 +21,9 @@
           </router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/more">
+          <router-link to="/town">
             <img src="/first/444.png" alt="更多" class="icon" />
-            <span class="text">文物</span>
+            <span class="text">古镇</span>
           </router-link>
         </li>
       </ul>
