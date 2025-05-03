@@ -9,15 +9,9 @@
           </router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/products">
+          <router-link to="/product">
             <img src="/first/222.png" alt="产品" class="icon" />
             <span class="text">产品</span>
-          </router-link>
-        </li>
-        <li class="nav-item">
-          <router-link to="/culture">
-            <img src="/first/333.png" alt="文化" class="icon" />
-            <span class="text">文化</span>
           </router-link>
         </li>
         <li class="nav-item">

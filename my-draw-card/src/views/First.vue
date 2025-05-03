@@ -553,6 +553,7 @@ onMounted(() => {
 
 .horizontal-text {
   flex: 1; /* 文字部分占据剩余空间 */
+  color: #f5f3f3;
   padding-right: 20px; /* 文字与图片之间的间距 */
 }
 
@@ -576,6 +577,7 @@ onMounted(() => {
   width: 100%;
   height: 50vh;
   text-align: center;
+  color: #f5f3f3;
 }
 
 .imgs {
